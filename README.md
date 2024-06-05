@@ -30,3 +30,7 @@ Reúne todos os tópicos da LGPD que exigem conformidade e permite que o usuári
 4. **Profile**
 
 Reúne todas as informações acerca do usuário e de sua jornada de compliance com a LGPD.
+
+# Download do aplicativo 
+
+Faça o download do aplicativo através do link da playstore: [em breve]
