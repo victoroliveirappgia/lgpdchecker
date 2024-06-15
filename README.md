@@ -31,6 +31,8 @@ Reúne todos os tópicos da LGPD que exigem conformidade e permite que o usuári
 
 Reúne todas as informações acerca do usuário e de sua jornada de compliance com a LGPD.
 
+# Pitch do projeto
+drive.google.com/file/d/1osZ81PSWpMHRCrY1AoUMm2k3IeG1SfZq
 # Download do aplicativo 
 
-Faça o download do aplicativo através do link da playstore: [em breve]
+Faça o download do aplicativo através do link da playstore: play.google.com/store/apps/details?id=br.com.lgpdchecker
